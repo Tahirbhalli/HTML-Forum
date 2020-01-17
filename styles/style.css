@@ -1,3 +1,8 @@
+body {
+  font-size: 12px;
+  font-family: 'Gayathri', sans-serif;
+}
+
 header nav{
   float: right;
 }
@@ -13,6 +18,8 @@ header nav{
   padding-bottom: 5px;
   position: relative;
   bottom: 12px;
+  width: 105px;
+  margin-left: 8px;
 }
 body{
   padding-right: 1rem;
@@ -22,4 +29,9 @@ header span{
   margin: 0;
   padding: 0;
   outline: none;
+}
+
+header {
+  height: 2.5rem;
+  width: 100%;
 }
